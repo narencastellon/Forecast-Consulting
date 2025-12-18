@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+utilsforecast
+statsmodels
+mlforecast
+scikit-learn
+xgboost
+catboost
