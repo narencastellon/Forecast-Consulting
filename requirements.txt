@@ -1,9 +1,13 @@
 streamlit
 pandas
 matplotlib
+seaborn
+plotly
 utilsforecast
 statsmodels
 mlforecast
+neuralforecast
 scikit-learn
 xgboost
 catboost
+hierarchicalforecast
