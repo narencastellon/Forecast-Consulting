@@ -14,7 +14,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-#import plotly.express as px
+import plotly.express as px
 import plotly.graph_objects as go
 #import networkx as nx
 from utilsforecast.feature_engineering import future_exog_to_historic
