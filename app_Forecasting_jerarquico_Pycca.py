@@ -40,8 +40,8 @@ st.markdown("""
 
 
 
-st.title("🏪 Dashboard BI Profesional: Forecasting Jerárquico de Ventas Semanales en Pycca")
-st.markdown("**NeuralForecast (NHITS Probabilístico) + HierarchicalForecast (Reconciliación)** | Creado por Naren Castellón (@NarenCastellon)")
+st.title("🏪 Forecasting Jerárquico con Redes Neuronales para Ventas Semanales en Pycca")
+st.markdown("Creado por Naren Castellón (@NarenCastellon)")
 
 st.sidebar. image("https://scontent.fmga10-1.fna.fbcdn.net/v/t39.30808-6/470554355_18474138037055527_1020868256347381902_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sF3RXBbJzu4Q7kNvwFmHvM2&_nc_oc=Adnbt6Pj_w-wwTZXYivXSviU5nH9Gbp9uF4P4cDu4bHOKHtEONExGQbPnsRstB0vE-I&_nc_zt=23&_nc_ht=scontent.fmga10-1.fna&_nc_gid=pxMUsnU5_qHZ1F5BzstgMw&oh=00_AfswgXpwHTZ2oY7k97JXRui9cDMl3d7Q6hX0B2jIRCXXqA&oe=6996DF80", 
          caption="Forecasting Jerárquico de Ventas Semanales (Tienda → SKU) en https://www.pycca.com", )
