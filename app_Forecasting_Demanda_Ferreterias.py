@@ -16,9 +16,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
-import networkx as nx
-from mlxtend.frequent_patterns import apriori, association_rules
-from mlxtend.preprocessing import TransactionEncoder
+#import networkx as nx
+#from mlxtend.frequent_patterns import apriori, association_rules
+#from mlxtend.preprocessing import TransactionEncoder
+
 from neuralforecast import NeuralForecast
 from neuralforecast.models import NHITS
 from neuralforecast.losses.pytorch import GMM, MQLoss, DistributionLoss
